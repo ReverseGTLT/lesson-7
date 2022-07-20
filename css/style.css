@@ -1,0 +1,96 @@
+/*first*/
+.first {
+    border: 3px solid black;
+    width: 90vw;
+    margin: 10px auto;
+}
+
+.first-container {
+    height: 100px;
+    margin: 15px;
+}
+
+.first-container_left {
+    height: 100px;
+    float: left;
+    background-color: rgb(213, 216, 19);
+    width: 110px;
+}
+.first-container_right {
+    height: 100px;
+    float: right;
+    background-color: rgb(213, 216, 19);
+    width: 110px;
+}
+
+/*second*/
+.second {
+    border: 3px solid black;
+    width: 90vw;
+    margin: 10px auto;
+}
+
+.second-conteiner {
+    height: 100px;
+    margin: 15px;
+
+}
+
+.second-conteiner1_left {
+    height: 100px;
+    float: left;
+    background-color: rgb(213, 216, 19);
+    width: 110px;
+}
+
+.second-conteiner1_right {
+    height: 50px;
+    float: right;
+    background-color: rgb(213, 216, 19);
+    width: 60px;
+    margin: 25px;
+}
+
+/*third*/
+.third {
+    border: 3px solid black;
+    width: 90vw;
+    margin: 10px auto;
+}
+
+.third-container {
+    height: 100px;
+    margin: 15px;
+}
+
+.third-container_left1 {
+    height: 100px;
+    float: left;
+    background-color: rgb(213, 216, 19);
+    width: 110px;
+    margin: 0 15px;
+}
+
+.third-container_left2 {
+    height: 100px;
+    float: left;
+    background-color: rgb(213, 216, 19);
+    width: 110px;
+    margin: 0 15px;
+}
+
+.third-container_right1 {
+    height: 100px;
+    float: right;
+    background-color: rgb(213, 216, 19);
+    width: 110px;
+    margin: 0 15px;
+}
+
+.third-container_right2 {
+    height: 100px;
+    float: right;
+    background-color: rgb(213, 216, 19);
+    width: 110px;
+    margin: 0 15px;
+}
