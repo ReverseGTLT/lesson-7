@@ -6,8 +6,7 @@
 }
 
 .first-container {
-    height: 100px;
-    margin: 15px;
+    height: 130px;
 }
 
 .first-container_left {
@@ -15,12 +14,14 @@
     float: left;
     background-color: rgb(213, 216, 19);
     width: 110px;
+    margin: 15px;
 }
 .first-container_right {
     height: 100px;
     float: right;
     background-color: rgb(213, 216, 19);
     width: 110px;
+    margin: 15px;
 }
 
 /*second*/
@@ -31,9 +32,7 @@
 }
 
 .second-conteiner {
-    height: 100px;
-    margin: 15px;
-
+    height: 130px;
 }
 
 .second-conteiner1_left {
@@ -41,6 +40,7 @@
     float: left;
     background-color: rgb(213, 216, 19);
     width: 110px;
+    margin: 15px;
 }
 
 .second-conteiner1_right {
@@ -48,7 +48,7 @@
     float: right;
     background-color: rgb(213, 216, 19);
     width: 60px;
-    margin: 25px;
+    margin: 40px 15px;
 }
 
 /*third*/
@@ -59,8 +59,7 @@
 }
 
 .third-container {
-    height: 100px;
-    margin: 15px;
+    height: 130px;
 }
 
 .third-container_left1 {
@@ -68,7 +67,7 @@
     float: left;
     background-color: rgb(213, 216, 19);
     width: 110px;
-    margin: 0 15px;
+    margin:15px;
 }
 
 .third-container_left2 {
@@ -76,7 +75,7 @@
     float: left;
     background-color: rgb(213, 216, 19);
     width: 110px;
-    margin: 0 15px;
+    margin:15px;
 }
 
 .third-container_right1 {
@@ -84,7 +83,7 @@
     float: right;
     background-color: rgb(213, 216, 19);
     width: 110px;
-    margin: 0 15px;
+    margin:15px;
 }
 
 .third-container_right2 {
@@ -92,5 +91,5 @@
     float: right;
     background-color: rgb(213, 216, 19);
     width: 110px;
-    margin: 0 15px;
+    margin:15px;
 }
