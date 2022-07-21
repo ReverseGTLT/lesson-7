@@ -43,12 +43,36 @@
     margin: 15px;
 }
 
-.second-conteiner1_right {
+.second-conteiner1_right1 {
     height: 50px;
     float: right;
     background-color: rgb(213, 216, 19);
     width: 60px;
-    margin: 40px 15px;
+    margin: 40px 285px 40px 15px;
+}
+
+.second-conteiner1_right2 {
+    height: 50px;
+    float: right;
+    background-color: rgb(213, 216, 19);
+    width: 60px;
+    margin: 40px -165px 40px 15px;
+}
+
+.second-conteiner1_right3 {
+    height: 50px;
+    float: right;
+    background-color: rgb(213, 216, 19);
+    width: 60px;
+    margin: 40px -255px 40px 15px;
+}
+
+.second-conteiner1_right4 {
+    height: 50px;
+    float: right;
+    background-color: rgb(213, 216, 19);
+    width: 60px;
+    margin: 40px -345px 40px 15px;
 }
 
 /*third*/
@@ -83,7 +107,7 @@
     float: right;
     background-color: rgb(213, 216, 19);
     width: 110px;
-    margin:15px;
+    margin: 15px 155px 15px 15px;
 }
 
 .third-container_right2 {
@@ -91,5 +115,80 @@
     float: right;
     background-color: rgb(213, 216, 19);
     width: 110px;
+    margin: 15px -265px 15px 15px;
+}
+
+/*fourth*/
+.fourth {
+    border: 3px solid black;
+    width: 90vw;
+    margin: 10px auto;
+}
+
+.fourth-container {
+    height: 230px;
+    width: 390px;
+    margin: auto;
+}
+
+.fourth-container_center1 {
+    height: 200px;
+    float: left;
+    background-color: rgb(213, 216, 19);
+    width: 220px;
     margin:15px;
+}
+
+.fourth-container_center2 {
+    height: 85px;
+    float: right;
+    background-color: rgb(213, 216, 19);
+    width: 110px;
+    margin: 15px;
+}
+
+.fourth-container_center3 {
+    height: 85px;
+    float: right;
+    background-color: rgb(213, 216, 19);
+    width: 110px;
+    margin: 15px;
+}
+
+/*fifth*/
+.fifth {
+    border: 3px solid black;
+    width: 90vw;
+    margin: 10px auto;
+}
+
+.fifth-container {
+    height: 230px;
+    width: 390px;
+    margin: 0 15px 0 570px;
+}
+
+
+.fifth-container_right1 {
+    height: 200px;
+    float: left;
+    background-color: rgb(213, 216, 19);
+    width: 220px;
+    margin:15px;
+}
+
+.fifth-container_right2 {
+    height: 85px;
+    float: right;
+    background-color: rgb(213, 216, 19);
+    width: 110px;
+    margin: 15px;
+}
+
+.fifth-container_right3 {
+    height: 85px;
+    float: right;
+    background-color: rgb(213, 216, 19);
+    width: 110px;
+    margin: 15px;
 }
