@@ -162,19 +162,21 @@
     margin: 9px auto;
 }
 
-.fifth-container {
+.fifth-box {
     height: 230px;
-    width: 390px;
-    margin: 0 15px 0 570px;
 }
 
+.fifth-container {
+    float: right;
+    width: 390px;
+}
 
 .fifth-container_right1 {
     height: 200px;
     float: left;
     background-color: rgb(213, 216, 19);
     width: 220px;
-    margin:15px;
+    margin: 15px;
 }
 
 .fifth-container_right2 {
