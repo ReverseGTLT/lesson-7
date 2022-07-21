@@ -1,196 +1,79 @@
-/*first*/
-.first {
+* {
+    box-sizing: border-box;
+}
+
+.container {
     border: 3px solid black;
     width: 90vw;
-    margin: 9px auto;
+    margin: 8px auto;
+    padding-bottom: calc(30px + 100px);
 }
 
-.first-container {
-    height: 130px;
-}
-
-.first-container_left {
+.container_box {
     height: 100px;
-    float: left;
-    background-color: rgb(213, 216, 19);
-    width: 110px;
-    margin: 15px;
-}
-.first-container_right {
-    height: 100px;
-    float: right;
-    background-color: rgb(213, 216, 19);
+    border: 3px solid black;
     width: 110px;
     margin: 15px;
 }
 
-/*second*/
-.second {
-    border: 3px solid black;
-    width: 90vw;
-    margin: 9px auto;
-}
-
-.second-conteiner {
-    height: 130px;
-}
-
-.second-conteiner1_left {
-    height: 100px;
-    float: left;
-    background-color: rgb(213, 216, 19);
-    width: 110px;
-    margin: 15px;
-}
-
-.second-conteiner1_right1 {
-    height: 50px;
-    float: right;
-    background-color: rgb(213, 216, 19);
-    width: 60px;
-    margin: 40px 285px 40px 15px;
-}
-
-.second-conteiner1_right2 {
-    height: 50px;
-    float: right;
-    background-color: rgb(213, 216, 19);
-    width: 60px;
-    margin: 40px -165px 40px 15px;
-}
-
-.second-conteiner1_right3 {
-    height: 50px;
-    float: right;
-    background-color: rgb(213, 216, 19);
-    width: 60px;
-    margin: 40px -255px 40px 15px;
-}
-
-.second-conteiner1_right4 {
-    height: 50px;
-    float: right;
-    background-color: rgb(213, 216, 19);
-    width: 60px;
-    margin: 40px -345px 40px 15px;
-}
-
-/*third*/
-.third {
-    border: 3px solid black;
-    width: 90vw;
-    margin: 9px auto;
-}
-
-.third-container {
-    height: 130px;
-}
-
-.third-container_left1 {
-    height: 100px;
-    float: left;
-    background-color: rgb(213, 216, 19);
-    width: 110px;
-    margin:15px;
-}
-
-.third-container_left2 {
-    height: 100px;
-    float: left;
-    background-color: rgb(213, 216, 19);
-    width: 110px;
-    margin:15px;
-}
-
-.third-container_right1 {
-    height: 100px;
-    float: right;
-    background-color: rgb(213, 216, 19);
-    width: 110px;
-    margin: 15px 155px 15px 15px;
-}
-
-.third-container_right2 {
-    height: 100px;
-    float: right;
-    background-color: rgb(213, 216, 19);
-    width: 110px;
-    margin: 15px -265px 15px 15px;
-}
-
-/*fourth*/
-.fourth {
-    border: 3px solid black;
-    width: 90vw;
-    margin: 9px auto;
-}
-
-.fourth-container {
+.container-center {
     height: 230px;
     width: 390px;
     margin: auto;
 }
 
-.fourth-container_center1 {
-    height: 200px;
-    float: left;
-    background-color: rgb(213, 216, 19);
-    width: 220px;
-    margin:15px;
-}
-
-.fourth-container_center2 {
-    height: 85px;
-    float: right;
-    background-color: rgb(213, 216, 19);
-    width: 110px;
-    margin: 15px;
-}
-
-.fourth-container_center3 {
-    height: 85px;
-    float: right;
-    background-color: rgb(213, 216, 19);
-    width: 110px;
-    margin: 15px;
-}
-
-/*fifth*/
-.fifth {
-    border: 3px solid black;
-    width: 90vw;
-    margin: 9px auto;
-}
-
-.fifth-box {
+.container-end {
     height: 230px;
-}
-
-.fifth-container {
-    float: right;
     width: 390px;
+    margin-left: auto;
 }
 
-.fifth-container_right1 {
-    height: 200px;
+.container--magnifier {
+    padding-bottom: 0;
+}
+
+.container_box--left {
     float: left;
-    background-color: rgb(213, 216, 19);
+}
+
+.container_box--right {
+    float: right;
+}
+
+.container_box--small {
+    height: 50px;
+    width: 60px;
+}
+
+.container_box--big {
+    height: 200px;
     width: 220px;
-    margin: 15px;
 }
 
-.fifth-container_right2 {
+.container_box--long {
     height: 85px;
-    float: right;
-    background-color: rgb(213, 216, 19);
-    width: 110px;
-    margin: 15px;
 }
 
-.fifth-container_right3 {
-    height: 85px;
-    float: right;
-    background-color: rgb(213, 216, 19);
-    width: 110px;
-    margin: 15px;
+.container-box--second1 {
+    margin: 40px 285px 40px 15px;
+}
+
+.container-box--second2 {
+    margin: 40px -165px 40px 15px;
+}
+
+.container-box--second3 {
+    margin: 40px -255px 40px 15px;
+}
+
+.container-box--second4 {
+    margin: 40px -345px 40px 15px;
+}
+
+.container-box--third1 {
+    margin: 15px 155px 15px 15px;
+}
+
+.container-box--third2 {
+    margin: 15px -265px 15px 15px;
 }
