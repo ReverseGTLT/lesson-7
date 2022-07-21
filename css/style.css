@@ -9,7 +9,7 @@
     padding-bottom: calc(30px + 100px);
 }
 
-.container_box {
+.container-box {
     height: 100px;
     border: 3px solid black;
     width: 110px;
@@ -32,25 +32,25 @@
     padding-bottom: 0;
 }
 
-.container_box--left {
+.container-box--left {
     float: left;
 }
 
-.container_box--right {
+.container-box--right {
     float: right;
 }
 
-.container_box--small {
+.container-box--small {
     height: 50px;
     width: 60px;
 }
 
-.container_box--big {
+.container-box--big {
     height: 200px;
     width: 220px;
 }
 
-.container_box--long {
+.container-box--long {
     height: 85px;
 }
 
